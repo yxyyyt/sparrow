@@ -1,1 +1,1 @@
-Sparrow，基于Java实现，以追求高可用，高性能，高并发的分布式一站式解决方案作为终极目标。
+Small but complete in every detail. 
